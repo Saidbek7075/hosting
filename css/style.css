@@ -1,0 +1,22 @@
+#amal{
+  display: none;
+}
+#num2{
+  display: none;
+}
+#ism, #tel{
+  font-weight: 500;
+  position: relative;
+  left: 100px;
+  display: inline;
+  width: 230px;
+}
+#sel, option{
+  font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", "Noto Sans", "Liberation Sans", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  font-weight: 550;
+  position: relative;
+  left: 103px;
+  height: 35px;
+  cursor: pointer;
+  width: 152px;
+}
